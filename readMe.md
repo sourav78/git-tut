@@ -1,3 +1,3 @@
 # file on github
 
-GitHub File
+GitHub Files
